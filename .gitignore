@@ -1,0 +1,7 @@
+build_release.bat
+*.zip
+cube3utils_dotnetcore
+Cube3Utils/.vs/Cube3Utils/DesignTimeBuild/.dtbcache.v2
+Cube3Utils/.vs/Cube3Utils/v16/.suo
+obj/
+bin
